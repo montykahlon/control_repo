@@ -1,5 +1,5 @@
 node default {
-  file {'/root/REAME':
+  file {'/root/README':
     ensure => file,
   }
 }
